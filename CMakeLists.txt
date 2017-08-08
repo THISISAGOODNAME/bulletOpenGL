@@ -35,3 +35,4 @@ endif()
 
 add_subdirectory(CH1.2_TheApplicationLayer)
 add_subdirectory(CH2.1_RenderingTheScene)
+add_subdirectory(CH2.2_BasicRenderingAndLighting)

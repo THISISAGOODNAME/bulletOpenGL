@@ -10,3 +10,7 @@ learning game physics with bullet physics and opengl
 ## CH2.1
 
 ![CH2.1](CH2.1_RenderingTheScene/screenshot.png)
+
+## CH2.2
+
+![CH2.2](CH2.2_BasicRenderingAndLighting/screenshot.png)
