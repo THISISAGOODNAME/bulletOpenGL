@@ -14,3 +14,9 @@ learning game physics with bullet physics and opengl
 ## CH2.2
 
 ![CH2.2](CH2.2_BasicRenderingAndLighting/screenshot.png)
+
+## CH2.3
+
+![CH2.3](CH2.3_UserInputAndCameraControl/screenshot.png)
+
+> USE `up` `down` `left` `right` to move and USE `Z` `X` to zoom 
