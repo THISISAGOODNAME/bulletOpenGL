@@ -1,0 +1,6 @@
+[submodule "3rd_party/bullet"]
+	path = 3rd_party/bullet
+	url = https://github.com/bulletphysics/bullet3.git
+[submodule "3rd_party/freeglut"]
+	path = 3rd_party/freeglut
+	url = https://github.com/dcnieho/FreeGLUT.git
