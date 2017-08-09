@@ -52,3 +52,7 @@ learning game physics with bullet physics and opengl
 ![CH6.1](CH6.1_CollisionEvents/screenshot.png)
 
 > Collision event will change the material of boxes
+
+## CH6.2 Trigger Volumes
+
+![CH6.2](CH6.2_TriggerVolumes/screenshot.png)
