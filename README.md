@@ -59,6 +59,10 @@ learning game physics with bullet physics and opengl
 
 ## CH6.3 Force Torque and Impulse
 
-![CH6.3](CH6.3_ForceTorqueAndImpulse)
+![CH6.3](CH6.3_ForceTorqueAndImpulse/screenshot.png)
 
 > `G` for force test, `E` for impulse test 
+
+## CH7.1 Sphere And Cylinders
+
+![CH7.1](CH7.1_SpheresAndCylinders/screenshot.png)
