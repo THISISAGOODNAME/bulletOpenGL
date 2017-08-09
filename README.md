@@ -24,3 +24,7 @@ learning game physics with bullet physics and opengl
 ## CH3.2 Createing Our First Physics Object
 
 ![CH3.2](CH3.2_CreatingOurFirstPhysicsObject/screenshot.gif)
+
+## CH4.1 Handing Multiple Objects
+
+![CH4.1](CH4.1_HandlingMultipleObjects/screenshot.gif)
