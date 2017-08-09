@@ -28,3 +28,9 @@ learning game physics with bullet physics and opengl
 ## CH4.1 Handing Multiple Objects
 
 ![CH4.1](CH4.1_HandlingMultipleObjects/screenshot.gif)
+
+## CH4.2 Debug Drawer
+
+![CH4.2](CH4.2_DebugDrawer/screenshot.png)
+
+> use `W` to toggle wireframe debug drawing, use `B` to toggle AABB debug drawing
