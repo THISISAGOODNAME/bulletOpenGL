@@ -41,6 +41,14 @@ learning game physics with bullet physics and opengl
 
 > use `D` to delete object which mouse overhead, use `right click` to shoot a box
 
+## CH5.2 Constraints
+
 ![CH5.2](CH5.2_Constraints/screenshot.png)
 
 > `left click` and `drag` to move to box
+
+## CH6.1 Collision Events
+
+![CH6.1](CH6.1_CollisionEvents/screenshot.png)
+
+> Collision event will change the material of boxes
