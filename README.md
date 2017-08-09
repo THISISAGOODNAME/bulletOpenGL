@@ -66,3 +66,7 @@ learning game physics with bullet physics and opengl
 ## CH7.1 Sphere And Cylinders
 
 ![CH7.1](CH7.1_SpheresAndCylinders/screenshot.png)
+
+## CH7.2 Convex Hulls
+
+![CH7.2](CH7.2_ConvexHulls/screenshot.png)
