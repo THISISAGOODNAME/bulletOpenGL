@@ -70,3 +70,7 @@ learning game physics with bullet physics and opengl
 ## CH7.2 Convex Hulls
 
 ![CH7.2](CH7.2_ConvexHulls/screenshot.png)
+
+## CH7.3 Compound Shapes
+
+![CH7.3](CH7.3_CompoundShapes/screenshot.png)
