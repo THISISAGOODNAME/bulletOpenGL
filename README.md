@@ -74,3 +74,7 @@ learning game physics with bullet physics and opengl
 ## CH7.3 Compound Shapes
 
 ![CH7.3](CH7.3_CompoundShapes/screenshot.png)
+
+## CH8 Collision Filtering
+
+![CH8](CH8_CollisionFiltering/screenshot.png)
