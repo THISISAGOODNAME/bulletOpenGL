@@ -34,3 +34,9 @@ learning game physics with bullet physics and opengl
 ![CH4.2](CH4.2_DebugDrawer/screenshot.png)
 
 > use `W` to toggle wireframe debug drawing, use `B` to toggle AABB debug drawing
+
+## CH5.1 Raycasting
+
+![CH5.1](CH5.1_Raycasting/screenshot.png)
+
+> use `D` to delete object which mouse overhead, use `right click` to shoot a box
