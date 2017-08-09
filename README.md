@@ -40,3 +40,7 @@ learning game physics with bullet physics and opengl
 ![CH5.1](CH5.1_Raycasting/screenshot.png)
 
 > use `D` to delete object which mouse overhead, use `right click` to shoot a box
+
+![CH5.2](CH5.2_Constraints/screenshot.png)
+
+> `left click` and `drag` to move to box
