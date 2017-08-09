@@ -78,3 +78,7 @@ learning game physics with bullet physics and opengl
 ## CH8 Collision Filtering
 
 ![CH8](CH8_CollisionFiltering/screenshot.png)
+
+## CH9 Softbody Dynamics
+
+![CH9](CH9_SoftBodyDynamics/screenshot.gif)
