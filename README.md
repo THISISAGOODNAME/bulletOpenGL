@@ -56,3 +56,9 @@ learning game physics with bullet physics and opengl
 ## CH6.2 Trigger Volumes
 
 ![CH6.2](CH6.2_TriggerVolumes/screenshot.png)
+
+## CH6.3 Force Torque and Impulse
+
+![CH6.3](CH6.3_ForceTorqueAndImpulse)
+
+> `G` for force test, `E` for impulse test 
